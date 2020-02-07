@@ -1,7 +1,7 @@
 # Data-wrangling
-Data wrangling work 
+Data wrangling work4
 
-4. Data Integration 
+Data Integration with Train Schedule
 This part is work on Integration of Datasets with Python to develop a comprehensive dataset to match properties in different suburbs with train schedules and crime rate.
 
 Two major parts are included in my work. 
